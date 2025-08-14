@@ -20,9 +20,3 @@ finance_agent = Agent(
     markdown = True, # Enables rich formatting in responses
     debug_mode = True # Helps with troubleshooting
 )
-
-# Get user input
-company_name = input("Enter the company name you want to analyse: ")
-
-# Query the agent
-finance_agent.print_response(f"Summarise analyst recommendations for {company_name}", stream=True)

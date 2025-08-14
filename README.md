@@ -9,4 +9,4 @@
       -  pip install -r requirements.txt
 
 3. in terminal run
-   - python financial_agent.py
+   - python3 main.py
