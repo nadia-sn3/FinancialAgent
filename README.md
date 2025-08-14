@@ -9,8 +9,8 @@
       -  pip install -r requirements.txt
     or
     (using conda)
-        conda create -n demo python=3.12 -y
-        conda activate demo
-        pip install -r requirements.txt
+      -  conda create -n demo python=3.12 -y
+      -  conda activate demo
+      -  pip install -r requirements.txt
 3. in terminal run
-    python financial_agent.py
+   - python financial_agent.py
